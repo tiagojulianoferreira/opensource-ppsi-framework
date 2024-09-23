@@ -9,10 +9,14 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # Controles de Cibersegurança
 
 Controle 1: Inventário e Controle de Ativos Institucionais
+
 ...
+
 Controle 18: Testes de Invasão
 
 # Controles de Privacidade
 Controle 19: Inventário e Mapeamento
+
 ...
+
 Controle 31: Segurança Aplicada à Privacidade
