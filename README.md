@@ -8,10 +8,10 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 
 # Controles de Cibersegurança
 
-Controle 1: Inventário e Controle de Ativos Institucionais
+## Controle 1: Inventário e Controle de Ativos Institucionais
 
 ...
-Controle 7: Gestão Contínua de Vulnerabilidades
+## Controle 7: Gestão Contínua de Vulnerabilidades
 
 ![image](https://github.com/user-attachments/assets/91118b72-ecc9-4ec9-8a7c-5df5f1e175ea)
 [OpenVas](https://www.openvas.org/)
@@ -20,9 +20,9 @@ O scanner obtém os testes para detectar vulnerabilidades de um feed que tem um 
 
 Controle 18: Testes de Invasão
 
-# Controles de Privacidade
-Controle 19: Inventário e Mapeamento
+## Controles de Privacidade
+##Controle 19: Inventário e Mapeamento
 
 ...
 
-Controle 31: Segurança Aplicada à Privacidade
+## Controle 31: Segurança Aplicada à Privacidade
