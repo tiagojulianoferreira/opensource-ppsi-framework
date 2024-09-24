@@ -12,7 +12,8 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 
 ## Controle 5: Gestão de Contas
 
-[OpenLDAP](https://www.openldap.org/)
+# [OpenLDAP](https://www.openldap.org/)
+> O software OpenLDAP é uma implementação de código aberto do Lightweight Directory Access Protocol .
 
 ## Controle 6: Gestão do Controle de Acesso
 
