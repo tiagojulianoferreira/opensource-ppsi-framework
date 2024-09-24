@@ -9,6 +9,8 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # Controles de Cibersegurança
 
 ## Controle 1: Inventário e Controle de Ativos Institucionais
+## Controle 3: Proteção de Dados
+## Controle 4: Configuração Segura de Ativos Institucionais e Software
 
 ## Controle 5: Gestão de Contas
 
