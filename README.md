@@ -21,8 +21,9 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 > authentik é um IdP (Provedor de Identidade) e SSO (logon único) desenvolvido com a segurança em primeiro plano em cada pedaço de código e em cada recurso, com ênfase na flexibilidade e versatilidade.
 
 # [Zitadel](https://zitadel.com/)
-
 ⚖️ Apache-2
+
+![image](https://github.com/user-attachments/assets/156c2c3f-8f3a-4572-b6b6-b7c8613674e6)
 > Gerenciamento de autenticação segura para seu aplicativo. Personalize conforme você cresce, com APIs fáceis e fluxos de trabalho programáveis. Foque no crescimento, seu login está em boas mãos.
 
 ## Controle 7: Gestão Contínua de Vulnerabilidades
