@@ -11,17 +11,26 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 ## Controle 1: Inventário e Controle de Ativos Institucionais
 
 ...
+## Controle 6: Gestão do Controle de Acesso
+
+
+# [Authentik](https://goauthentik.io/)
+![image](https://github.com/user-attachments/assets/594c1758-a33e-4b54-bb71-02785c8120b9)
+> authentik é um IdP (Provedor de Identidade) e SSO (logon único) desenvolvido com a segurança em primeiro plano em cada pedaço de código e em cada recurso, com ênfase na flexibilidade e versatilidade.
+
 ## Controle 7: Gestão Contínua de Vulnerabilidades
 
+
+
+# [OpenVas](https://www.openvas.org/)
 ![image](https://github.com/user-attachments/assets/91118b72-ecc9-4ec9-8a7c-5df5f1e175ea)
-[OpenVas](https://www.openvas.org/)
 > O OpenVAS é um scanner de vulnerabilidades completo. Seus recursos incluem testes autenticados e não autenticados, vários protocolos industriais e de internet de alto e baixo nível, ajuste de desempenho para varreduras em larga escala e uma poderosa linguagem de programação interna para implementar qualquer tipo de teste de vulnerabilidade.
 O scanner obtém os testes para detectar vulnerabilidades de um feed que tem um longo histórico e atualizações diárias.
 
 Controle 18: Testes de Invasão
 
 ## Controles de Privacidade
-##Controle 19: Inventário e Mapeamento
+## Controle 19: Inventário e Mapeamento
 
 ...
 
