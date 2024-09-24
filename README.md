@@ -38,18 +38,24 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 > Gerenciamento de autenticação segura para seu aplicativo. Personalize conforme você cresce, com APIs fáceis e fluxos de trabalho programáveis. Foque no crescimento, seu login está em boas mãos.
 
 ## Controle 7: Gestão Contínua de Vulnerabilidades
-
-
-
 # [OpenVas](https://www.openvas.org/)
 ⚖️ GPL-2
 ![image](https://github.com/user-attachments/assets/91118b72-ecc9-4ec9-8a7c-5df5f1e175ea)
 > O OpenVAS é um scanner de vulnerabilidades completo. Seus recursos incluem testes autenticados e não autenticados, vários protocolos industriais e de internet de alto e baixo nível, ajuste de desempenho para varreduras em larga escala e uma poderosa linguagem de programação interna para implementar qualquer tipo de teste de vulnerabilidade.
 O scanner obtém os testes para detectar vulnerabilidades de um feed que tem um longo histórico e atualizações diárias.
+# Controle 8: Gestão de Registros de Auditoria
+# Controle 9: Proteções de E-mail e Navegador Web
+# Controle 10: Defesas Contra Malware
+# Controle 11: Recuperação de Dados
+# Controle 12: Gestão da Infraestrutura de Rede
+# Controle 13: Monitoramento e Defesa da Rede
+# Controle 14: Conscientização e Treinamento de Competências sobre Segurança
+# Controle 15: Gestão de Provedor de Serviços
+# Controle 16: Segurança de Aplicações
+# Controle 17: Gestão de Resposta a Incidentes
+# Controle 18: Testes de Invasão
 
-Controle 18: Testes de Invasão
-
-## Controles de Privacidade
+# Controles de Privacidade
 ## Controle 19: Inventário e Mapeamento
 
 ...
