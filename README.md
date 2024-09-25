@@ -52,6 +52,10 @@ O scanner obtém os testes para detectar vulnerabilidades de um feed que tem um 
 # Controle 14: Conscientização e Treinamento de Competências sobre Segurança
 # Controle 15: Gestão de Provedor de Serviços
 # Controle 16: Segurança de Aplicações
+
+# [OWASP ZAP](https://www.zaproxy.org/)
+⚖️ Apache-2
+>  Uma ferramenta de código aberto para encontrar vulnerabilidades de segurança em aplicações web automaticamente enquanto elas são sendo desenvolvidas.
 # Controle 17: Gestão de Resposta a Incidentes
 # Controle 18: Testes de Invasão
 
