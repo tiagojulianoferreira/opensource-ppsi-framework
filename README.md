@@ -59,6 +59,9 @@ O scanner obtém os testes para detectar vulnerabilidades de um feed que tem um 
 # Controle 11: Recuperação de Dados
 # Controle 12: Gestão da Infraestrutura de Rede
 # Controle 13: Monitoramento e Defesa da Rede
+# [Zabbix](https://github.com/zabbix/zabbix)
+⚖️ AGPL-3
+> Monitoramento em tempo real de componentes e serviços de TI, como redes, servidores, VMs, aplicativos e nuvem.
 # Controle 14: Conscientização e Treinamento de Competências sobre Segurança
 # Controle 15: Gestão de Provedor de Serviços
 # Controle 16: Segurança de Aplicações
