@@ -9,6 +9,11 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # Controles de Cibersegurança
 
 ## Controle 1: Inventário e Controle de Ativos Institucionais
+
+# [GLPI Agent](https://github.com/glpi-project/glpi-agent)
+⚖️ GPL-2
+> O GLPI Agent é um agente de gerenciamento genérico. Ele pode executar um certo número de tarefas, de acordo com seu próprio plano de execução, ou em nome de um servidor GLPI agindo como um ponto de controle.
+
 ## Controle 2: Inventário e Controle de Ativos de Software
 ## Controle 3: Proteção de Dados
 ## Controle 4: Configuração Segura de Ativos Institucionais e Software
