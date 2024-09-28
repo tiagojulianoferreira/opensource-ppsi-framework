@@ -12,6 +12,11 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 ## Controle 2: Inventário e Controle de Ativos de Software
 ## Controle 3: Proteção de Dados
 ## Controle 4: Configuração Segura de Ativos Institucionais e Software
+# [BunkerWeb (WAF)](https://www.bunkerweb.io/)
+⚖️ AGPL-3
+
+![image](https://github.com/user-attachments/assets/86e7e654-bbc5-44b4-a334-e938a7ea7ba6)
+> BunkerWeb is a next-generation and open-source Web Application Firewall (WAF).
 
 ## Controle 5: Gestão de Contas
 
@@ -23,7 +28,7 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 
 # [Authentik](https://goauthentik.io/)
 ⚖️ ????
-
+4.6
 ![image](https://github.com/user-attachments/assets/594c1758-a33e-4b54-bb71-02785c8120b9)
 > authentik é um IdP (Provedor de Identidade) e SSO (logon único) desenvolvido com a segurança em primeiro plano em cada pedaço de código e em cada recurso, com ênfase na flexibilidade e versatilidade.
 
