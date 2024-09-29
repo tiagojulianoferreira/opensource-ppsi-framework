@@ -59,6 +59,9 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # Controle 8: Gestão de Registros de Auditoria
 # [Graylog](https://graylog.org/)
 > Plataforma de gerenciamento de logs gratuita e aberta.
+# [Loki](https://grafana.com/loki)
+⚖️ AGPL-3
+> Loki é um sistema de agregação de logs multi-tenant, altamente disponível e escalável horizontalmente, inspirado no Prometheus . Ele foi projetado para ser muito econômico e fácil de operar. Ele não indexa o conteúdo dos logs, mas sim um conjunto de rótulos para cada fluxo de logs.
 # [Wazuh (SIEM)](https://wazuh.com/)
 ⚖️ GPL-2 e AGPL-3
 > Wazuh - A plataforma de segurança de código aberto. Proteção XDR e SIEM unificada para endpoints e cargas de trabalho em nuvem.
