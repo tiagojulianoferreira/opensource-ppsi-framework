@@ -57,6 +57,9 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 ⚖️ AGPL-3
 > Shuffle: Uma plataforma de automação de segurança de propósito geral. Nosso foco é colaboração e compartilhamento de recursos.
 # Controle 8: Gestão de Registros de Auditoria
+# [Wazuh (SIEM)](https://wazuh.com/)
+⚖️ GPL-2 e AGPL-3
+> Wazuh - A plataforma de segurança de código aberto. Proteção XDR e SIEM unificada para endpoints e cargas de trabalho em nuvem.
 # Controle 9: Proteções de E-mail e Navegador Web
 # Controle 10: Defesas Contra Malware
 # Controle 11: Recuperação de Dados
