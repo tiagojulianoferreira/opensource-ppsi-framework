@@ -51,8 +51,11 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # [OpenVas](https://www.openvas.org/)
 ⚖️ GPL-2
 ![image](https://github.com/user-attachments/assets/91118b72-ecc9-4ec9-8a7c-5df5f1e175ea)
-> O OpenVAS é um scanner de vulnerabilidades completo. Seus recursos incluem testes autenticados e não autenticados, vários protocolos industriais e de internet de alto e baixo nível, ajuste de desempenho para varreduras em larga escala e uma poderosa linguagem de programação interna para implementar qualquer tipo de teste de vulnerabilidade.
-O scanner obtém os testes para detectar vulnerabilidades de um feed que tem um longo histórico e atualizações diárias.
+> O OpenVAS é um scanner de vulnerabilidades completo. Seus recursos incluem testes autenticados e não autenticados, vários protocolos industriais e de internet de alto e baixo nível, ajuste de desempenho para varreduras em larga escala e uma poderosa linguagem de programação interna para implementar qualquer tipo de teste de vulnerabilidade. O scanner obtém os testes para detectar vulnerabilidades de um feed que tem um longo histórico e atualizações diárias.
+
+# [Shuffle (Automation)](https://github.com/shuffle/shuffle)
+⚖️ AGPL-3
+> Shuffle: Uma plataforma de automação de segurança de propósito geral. Nosso foco é colaboração e compartilhamento de recursos.
 # Controle 8: Gestão de Registros de Auditoria
 # Controle 9: Proteções de E-mail e Navegador Web
 # Controle 10: Defesas Contra Malware
