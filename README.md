@@ -20,7 +20,7 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # [BunkerWeb (WAF)](https://www.bunkerweb.io/)
 ⚖️ AGPL-3
 
-![image](https://github.com/user-attachments/assets/86e7e654-bbc5-44b4-a334-e938a7ea7ba6)
+<!--![image](https://github.com/user-attachments/assets/86e7e654-bbc5-44b4-a334-e938a7ea7ba6)-->
 > BunkerWeb is a next-generation and open-source Web Application Firewall (WAF).
 
 ## Controle 5: Gestão de Contas
@@ -34,7 +34,7 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # [Authentik](https://goauthentik.io/)
 ⚖️ ????
 4.6
-![image](https://github.com/user-attachments/assets/594c1758-a33e-4b54-bb71-02785c8120b9)
+<!--! [image](https://github.com/user-attachments/assets/594c1758-a33e-4b54-bb71-02785c8120b9)-->
 > authentik é um IdP (Provedor de Identidade) e SSO (logon único) desenvolvido com a segurança em primeiro plano em cada pedaço de código e em cada recurso, com ênfase na flexibilidade e versatilidade.
 
 # [Keycloak](https://www.keycloak.org/)
@@ -44,13 +44,16 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # [Zitadel](https://zitadel.com/)
 ⚖️ Apache-2
 
-![image](https://github.com/user-attachments/assets/156c2c3f-8f3a-4572-b6b6-b7c8613674e6)
+<!--![image](https://github.com/user-attachments/assets/156c2c3f-8f3a-4572-b6b6-b7c8613674e6)-->
 > Gerenciamento de autenticação segura para seu aplicativo. Personalize conforme você cresce, com APIs fáceis e fluxos de trabalho programáveis. Foque no crescimento, seu login está em boas mãos.
 
 ## Controle 7: Gestão Contínua de Vulnerabilidades
+# [DefectDojo](https://defectdojo.com/)
+⚖️ BSD-3-Clause
+> DevSecOps, ASPM, Vulnerability Management. Tudo em uma plataforma.
 # [OpenVas](https://www.openvas.org/)
 ⚖️ GPL-2
-![image](https://github.com/user-attachments/assets/91118b72-ecc9-4ec9-8a7c-5df5f1e175ea)
+<!--![image](https://github.com/user-attachments/assets/91118b72-ecc9-4ec9-8a7c-5df5f1e175ea)-->
 > O OpenVAS é um scanner de vulnerabilidades completo. Seus recursos incluem testes autenticados e não autenticados, vários protocolos industriais e de internet de alto e baixo nível, ajuste de desempenho para varreduras em larga escala e uma poderosa linguagem de programação interna para implementar qualquer tipo de teste de vulnerabilidade. O scanner obtém os testes para detectar vulnerabilidades de um feed que tem um longo histórico e atualizações diárias.
 
 # [Shuffle (SOAR)](https://github.com/shuffle/shuffle)
