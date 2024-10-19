@@ -9,12 +9,19 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # Controles de Cibersegurança
 
 ## Controle 1: Inventário e Controle de Ativos Institucionais
-
 # [GLPI Agent](https://github.com/glpi-project/glpi-agent)
 ⚖️ GPL-2
 > O GLPI Agent é um agente de gerenciamento genérico. Ele pode executar um certo número de tarefas, de acordo com seu próprio plano de execução, ou em nome de um servidor GLPI agindo como um ponto de controle.
 
+# [Netbox](https://github.com/netbox-community/netbox)
+⚖️ Apache License 2.0 by DigitalOcean, LLC.
+> 
+
 ## Controle 2: Inventário e Controle de Ativos de Software
+# [OCS inventory](https://ocsinventory-ng.org/?lang=en)
+⚖️ GPLv3
+> É um software de código aberto. Ele permite que você escaneie e inventariie todos os seus dispositivos em seu departamento de TI. Depois de saber tudo sobre suas máquinas, tanto em termos de hardware quanto de software, você poderá implantar pacotes para manter seu ambiente seguro.
+
 ## Controle 3: Proteção de Dados
 ## Controle 4: Configuração Segura de Ativos Institucionais e Software
 # [BunkerWeb (WAF)](https://www.bunkerweb.io/)
@@ -46,6 +53,10 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 
 <!--![image](https://github.com/user-attachments/assets/156c2c3f-8f3a-4572-b6b6-b7c8613674e6)-->
 > Gerenciamento de autenticação segura para seu aplicativo. Personalize conforme você cresce, com APIs fáceis e fluxos de trabalho programáveis. Foque no crescimento, seu login está em boas mãos.
+
+# [Authelia](https://www.authelia.com/))
+⚖️ Apache License, Version 2.0 
+> Authelia é um servidor e portal de autenticação e autorização de código aberto que cumpre a função de gerenciamento de identidade e acesso (IAM) de segurança, fornecer autenticação multifator e logon único (SSO) para seus aplicativos por meio de um portal da web.
 
 ## Controle 7: Gestão Contínua de Vulnerabilidades
 # [DefectDojo](https://defectdojo.com/)
