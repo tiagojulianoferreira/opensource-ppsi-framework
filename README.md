@@ -14,8 +14,8 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 > O GLPI Agent é um agente de gerenciamento genérico. Ele pode executar um certo número de tarefas, de acordo com seu próprio plano de execução, ou em nome de um servidor GLPI agindo como um ponto de controle.
 
 # [Netbox](https://github.com/netbox-community/netbox)
-⚖️ Apache License 2.0 by DigitalOcean, LLC.
-> 
+⚖️ Apache License 2.0
+> A fonte única de verdade que impulsiona a automação de rede. Código aberto sob Apache 2. Experimente o NetBox Cloud gratuitamente:
 
 ## Controle 2: Inventário e Controle de Ativos de Software
 # [OCS inventory](https://ocsinventory-ng.org/?lang=en)
@@ -36,7 +36,9 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 > O software OpenLDAP é uma implementação de código aberto do Lightweight Directory Access Protocol .
 
 ## Controle 6: Gestão do Controle de Acesso
-
+# [Authelia](https://www.authelia.com/)
+⚖️ Apache License, Version 2.0 
+> Authelia é um servidor e portal de autenticação e autorização de código aberto que cumpre a função de gerenciamento de identidade e acesso (IAM) de segurança, fornecer autenticação multifator e logon único (SSO) para seus aplicativos por meio de um portal da web.
 
 # [Authentik](https://goauthentik.io/)
 ⚖️ ????
@@ -53,10 +55,6 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 
 <!--![image](https://github.com/user-attachments/assets/156c2c3f-8f3a-4572-b6b6-b7c8613674e6)-->
 > Gerenciamento de autenticação segura para seu aplicativo. Personalize conforme você cresce, com APIs fáceis e fluxos de trabalho programáveis. Foque no crescimento, seu login está em boas mãos.
-
-# [Authelia](https://www.authelia.com/))
-⚖️ Apache License, Version 2.0 
-> Authelia é um servidor e portal de autenticação e autorização de código aberto que cumpre a função de gerenciamento de identidade e acesso (IAM) de segurança, fornecer autenticação multifator e logon único (SSO) para seus aplicativos por meio de um portal da web.
 
 ## Controle 7: Gestão Contínua de Vulnerabilidades
 # [DefectDojo](https://defectdojo.com/)
