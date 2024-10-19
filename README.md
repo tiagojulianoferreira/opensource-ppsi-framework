@@ -80,6 +80,9 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # Controle 9: Proteções de E-mail e Navegador Web
 # Controle 10: Defesas Contra Malware
 # Controle 11: Recuperação de Dados
+[Bacula](https://www.bacula.org/)
+⚖️ AGPLv3
+> Bacula é um conjunto de programas de computador que permite ao administrador do sistema gerenciar backup, recuperação e verificação de dados de computador em uma rede de computadores de diferentes tipos. Bacula também pode ser executado inteiramente em um único computador e pode bac
 # Controle 12: Gestão da Infraestrutura de Rede
 # Controle 13: Monitoramento e Defesa da Rede
 # [Zabbix](https://github.com/zabbix/zabbix)
