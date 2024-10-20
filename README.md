@@ -7,6 +7,9 @@ Conforme o disposto no art. 8º, da PORTARIA SGD/MGI Nº 852, os órgãos e as e
 Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/ppsi/guia_framework_psi.pdf))
 
 # Controles de Cibersegurança
+# [Snort IDS/IPS](https://www.snort.org)
+⚖️ GPL-2
+> Snort é um software livre de detecção de intrusão para rede desenvolvido inicialmente por Martin Roesch, capaz de desenvolver análise de tráfego em tempo real e registro de pacote em redes IP
 # [Suricata IDS/IPS](https://suricata.io/)
 ⚖️ GPL-2
 > Suricata é um software de análise de rede e detecção de ameaças de alto desempenho e código aberto, usado pela maioria das organizações públicas e privadas e incorporado pelos principais fornecedores para proteger seus ativos.
