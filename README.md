@@ -92,6 +92,9 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # [Prometheus](https://prometheus.io/)
 ⚖️ Apache-2
 > O sistema de monitoramento Prometheus e o banco de dados de séries temporais.
+# (Ntop-NG](https://www.ntop.org/)
+⚖️ GPL-3
+> Monitoramento de tráfego de rede de segurança e tráfego baseado na Web
 # [Zabbix](https://github.com/zabbix/zabbix)
 ⚖️ AGPL-3
 > Monitoramento em tempo real de componentes e serviços de TI, como redes, servidores, VMs, aplicativos e nuvem.
