@@ -68,6 +68,10 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # [Shuffle (SOAR)](https://github.com/shuffle/shuffle)
 ⚖️ AGPL-3
 > Shuffle: Uma plataforma de Orquestração, Automação e Resposta - SOAR de segurança de propósito geral. Nosso foco é colaboração e compartilhamento de recursos.
+# [Wireshark](https://github.com/wireshark/wireshark)
+⚖️ GPL-2 
+> Wireshark é um analisador de tráfego de rede, ou "sniffer", para Linux, macOS, *BSD e outros sistemas operacionais Unix e Unix-like e para Windows. Ele usa Qt, uma biblioteca de interface gráfica de usuário, e libpcap e npcap como bibliotecas de captura e filtragem de pacotes.
+
 # Controle 8: Gestão de Registros de Auditoria
 # [Graylog](https://graylog.org/)
 > Plataforma de gerenciamento de logs gratuita e aberta.
