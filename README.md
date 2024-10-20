@@ -7,15 +7,14 @@ Conforme o disposto no art. 8º, da PORTARIA SGD/MGI Nº 852, os órgãos e as e
 Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/ppsi/guia_framework_psi.pdf))
 
 # Controles de Cibersegurança
+# [Suricata IDS/IPS](https://suricata.io/)
+⚖️ GPL-2
+> Suricata é um software de análise de rede e detecção de ameaças de alto desempenho e código aberto, usado pela maioria das organizações públicas e privadas e incorporado pelos principais fornecedores para proteger seus ativos.
 
 ## Controle 1: Inventário e Controle de Ativos Institucionais
 # [GLPI Agent](https://github.com/glpi-project/glpi-agent)
 ⚖️ GPL-2
 > O GLPI Agent é um agente de gerenciamento genérico. Ele pode executar um certo número de tarefas, de acordo com seu próprio plano de execução, ou em nome de um servidor GLPI agindo como um ponto de controle.
-
-# [Netbox](https://github.com/netbox-community/netbox)
-⚖️ Apache License 2.0
-> A fonte única de verdade que impulsiona a automação de rede. Código aberto sob Apache 2. Experimente o NetBox Cloud gratuitamente:
 
 ## Controle 2: Inventário e Controle de Ativos de Software
 # [OCS inventory](https://ocsinventory-ng.org/?lang=en)
@@ -78,6 +77,7 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # [Loki](https://grafana.com/loki)
 ⚖️ AGPL-3
 > Loki é um sistema de agregação de logs multi-tenant, altamente disponível e escalável horizontalmente, inspirado no Prometheus . Ele foi projetado para ser muito econômico e fácil de operar. Ele não indexa o conteúdo dos logs, mas sim um conjunto de rótulos para cada fluxo de logs.
+
 # [Wazuh (SIEM)](https://wazuh.com/)
 ⚖️ GPL-2 e AGPL-3
 > Wazuh - A plataforma de segurança de código aberto. Proteção XDR e SIEM unificada para endpoints e cargas de trabalho em nuvem.
@@ -88,6 +88,9 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 ⚖️ AGPLv3
 > Bacula é um conjunto de programas de computador que permite ao administrador do sistema gerenciar backup, recuperação e verificação de dados de computador em uma rede de computadores de diferentes tipos. Bacula também pode ser executado inteiramente em um único computador e pode bac
 # Controle 12: Gestão da Infraestrutura de Rede
+# [Netbox](https://github.com/netbox-community/netbox)
+⚖️ Apache License 2.0
+> A fonte única de verdade que impulsiona a automação de rede. Código aberto sob Apache 2. Experimente o NetBox Cloud gratuitamente:
 # Controle 13: Monitoramento e Defesa da Rede
 # [Cacti](https://www.cacti.net/)
 ⚖️ GPL-2
