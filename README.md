@@ -91,6 +91,9 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 ⚖️ AGPLv3
 > Bacula é um conjunto de programas de computador que permite ao administrador do sistema gerenciar backup, recuperação e verificação de dados de computador em uma rede de computadores de diferentes tipos. Bacula também pode ser executado inteiramente em um único computador e pode bac
 # Controle 12: Gestão da Infraestrutura de Rede
+# [phpIPAM](https://phpipam.net/)
+⚖️ GPL-3
+> phpipam é um aplicativo de gerenciamento de endereço IP web de código aberto (IPAM). Seu objetivo é fornecer gerenciamento de endereço IP leve, moderno e útil. É um aplicativo baseado em php com backend de banco de dados MySQL, usando bibliotecas jQuery, ajax e recursos HTML5/CSS3.
 # [Netbox](https://github.com/netbox-community/netbox)
 ⚖️ Apache License 2.0
 > A fonte única de verdade que impulsiona a automação de rede. Código aberto sob Apache 2. Experimente o NetBox Cloud gratuitamente:
