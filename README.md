@@ -89,6 +89,9 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 > Bacula é um conjunto de programas de computador que permite ao administrador do sistema gerenciar backup, recuperação e verificação de dados de computador em uma rede de computadores de diferentes tipos. Bacula também pode ser executado inteiramente em um único computador e pode bac
 # Controle 12: Gestão da Infraestrutura de Rede
 # Controle 13: Monitoramento e Defesa da Rede
+# [Cacti](https://www.cacti.net/)
+⚖️ GPL-2
+> Cacti é uma ferramenta software livre administrativa de rede, que recolhe e exibe informações sobre o estado de uma rede de computadores através de gráficos, permitindo o monitoramento e gerenciamento de redes simples até redes complexas, com centenas de dispositivo
 # [Prometheus](https://prometheus.io/)
 ⚖️ Apache-2
 > O sistema de monitoramento Prometheus e o banco de dados de séries temporais.
