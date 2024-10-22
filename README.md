@@ -114,6 +114,10 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # Controle 15: Gestão de Provedor de Serviços
 # Controle 16: Segurança de Aplicações
 
+#[Caddy](https://caddyserver.com/)
+⚖️ Apache-2
+> Servidor web multiplataforma HTTP/1-2-3 rápido e extensível com HTTPS automático
+> 
 # [OWASP ZAP](https://www.zaproxy.org/)
 ⚖️ Apache-2
 >  Uma ferramenta de código aberto para encontrar vulnerabilidades de segurança em aplicações web automaticamente enquanto elas são sendo desenvolvidas.
