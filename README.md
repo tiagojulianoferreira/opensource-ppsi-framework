@@ -117,6 +117,9 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # [OWASP ZAP](https://www.zaproxy.org/)
 ⚖️ Apache-2
 >  Uma ferramenta de código aberto para encontrar vulnerabilidades de segurança em aplicações web automaticamente enquanto elas são sendo desenvolvidas.
+# [Zoraxy](https://zoraxy.aroz.org/index.html)
+⚖️ AGPL-3
+> Uma ferramenta de proxy reverso e encaminhamento HTTP de propósito geral. Agora escrito em Go!
 # Controle 17: Gestão de Resposta a Incidentes
 # Controle 18: Testes de Invasão
 
