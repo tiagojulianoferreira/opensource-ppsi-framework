@@ -92,6 +92,10 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 ⚖️ GPL-2 e AGPL-3
 > Wazuh - A plataforma de segurança de código aberto. Proteção XDR e SIEM unificada para endpoints e cargas de trabalho em nuvem.
 # Controle 9: Proteções de E-mail e Navegador Web
+
+# [Apache SpammAssassin](https://spamassassin.apache.org/)
+⚖️ Apache-2
+> O Apache SpamAssassin é a plataforma antispam de código aberto número 1, oferecendo aos administradores de sistemas um filtro para classificar e-mails e bloquear spam (e-mails em massa não solicitados). Ele usa uma estrutura de pontuação robusta e plug-ins para integrar uma ampla gama de testes avançados de análise estatística e heurística em cabeçalhos de e-mail e corpo de texto, incluindo análise de texto, filtragem bayesiana, listas de bloqueio de DNS e bancos de dados de filtragem colaborativa.
 # [MailScanner](https://www.mailscanner.info/)
 ⚖️ GPL-2 
 > O MailScanner verifica e-mails em busca de vírus, spam, phishing, malware e outros ataques contra vulnerabilidades de segurança e desempenha um papel importante na segurança de uma rede. Em virtude de ser de código aberto, a tecnologia do MailScanner foi revisada muitas vezes por alguns dos melhores e mais brilhantes no campo da segurança de computadores do mundo todo. O MailScanner suporta uma ampla gama de MTAs e scanners de vírus para incluir o popular Clam AV de código aberto. A detecção de spam é realizada via Spamassassin, que é de longe o mecanismo de detecção de spam mais popular e padronizado
