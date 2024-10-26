@@ -28,9 +28,10 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 ## Controle 4: Configuração Segura de Ativos Institucionais e Software
 # [BunkerWeb (WAF)](https://www.bunkerweb.io/)
 ⚖️ AGPL-3
-
-<!--![image](https://github.com/user-attachments/assets/86e7e654-bbc5-44b4-a334-e938a7ea7ba6)-->
 > BunkerWeb is a next-generation and open-source Web Application Firewall (WAF).
+# [fail2ban](https://github.com/fail2ban/fail2ban)
+⚖️ GPL-2
+> O Fail2Ban verifica arquivos de log como /var/log/auth.loge bane endereços IP que conduzem muitas tentativas de login com falha. Ele faz isso atualizando as regras de firewall do sistema para rejeitar novas conexões desses endereços IP, por um período de tempo configurável. O Fail2Ban vem pronto para ler muitos arquivos de log padrão, como os do sshd e do Apache, e é facilmente configurado para ler qualquer arquivo de log de sua escolha, para qualquer erro que você desejar.
 
 ## Controle 5: Gestão de Contas
 
