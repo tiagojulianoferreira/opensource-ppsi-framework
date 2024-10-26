@@ -120,6 +120,9 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 # [Cacti](https://www.cacti.net/)
 ⚖️ GPL-2
 > Cacti é uma ferramenta software livre administrativa de rede, que recolhe e exibe informações sobre o estado de uma rede de computadores através de gráficos, permitindo o monitoramento e gerenciamento de redes simples até redes complexas, com centenas de dispositivo
+# [DNSDiag](https://dnsdiag.org/)
+⚖️ BSD2-Clause
+> Conjunto de ferramentas de medição, solução de problemas e auditoria de segurança de DNS
 # [Prometheus](https://prometheus.io/)
 ⚖️ Apache-2
 > O sistema de monitoramento Prometheus e o banco de dados de séries temporais.
