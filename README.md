@@ -52,6 +52,12 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 ⚖️ Apache-2
 > Gerenciamento de Identidade e Acesso de Código Aberto para Aplicações e Serviços Modernos
 
+# [Kong Api Gateway](https://docs.konghq.com/gateway/latest/install/#kong-community)
+⚖️ Apache-2
+> Kong ou Kong API Gateway é um API Gateway nativo da nuvem, agnóstico de plataforma e escalável, que se destaca por seu alto desempenho e extensibilidade por meio de plugins. Ele também fornece recursos avançados de IA com suporte multi-LLM.
+
+Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verificação de integridade, autenticação (e muito mais ), o Kong serve como a camada central para orquestrar microsserviços ou tráfego de API convencional com facilidade.
+
 # [Zitadel](https://zitadel.com/)
 ⚖️ Apache-2
 
