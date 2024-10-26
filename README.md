@@ -92,6 +92,11 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 ⚖️ GPL-2 e AGPL-3
 > Wazuh - A plataforma de segurança de código aberto. Proteção XDR e SIEM unificada para endpoints e cargas de trabalho em nuvem.
 # Controle 9: Proteções de E-mail e Navegador Web
+# [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway/overview)
+⚖️ AGPL-3
+> O Proxmox Mail Gateway é a principal solução de segurança de e-mail de código aberto, ajudando você a proteger seu servidor de e-mail contra todas as ameaças de e-mail desde o momento em que elas surgem. A arquitetura flexível combinada com a interface de gerenciamento amigável e baseada na web permite que profissionais de TI e empresas controlem todos os e-mails recebidos e enviados com facilidade e protejam seus usuários contra spam, vírus, phishing e trojans.
+
+
 # Controle 10: Defesas Contra Malware
 # Controle 11: Recuperação de Dados
 # [Bacula](https://www.bacula.org/)
