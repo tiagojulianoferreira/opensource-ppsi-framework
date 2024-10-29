@@ -136,7 +136,7 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 > Monitoramento em tempo real de componentes e serviços de TI, como redes, servidores, VMs, aplicativos e nuvem.
 # Controle 14: Conscientização e Treinamento de Competências sobre Segurança
 
-# SRE - Site Reliability Engineering (livro)(https://sre.google/sre-book/table-of-contents/)
+# [SRE - Site Reliability Engineering (livro)](https://sre.google/sre-book/table-of-contents/)
 > Por essa lente, então, vemos que se a engenharia de software tende a se concentrar em projetar e construir sistemas de software, deve haver outra disciplina que se concentre em todo o ciclo de vida dos objetos de software, desde o início, passando pela implantação e operação, refinamento e eventual descomissionamento pacífico. Essa disciplina usa — e precisa usar — ​​uma ampla gama de habilidades, mas tem preocupações separadas de outros tipos de engenheiros. Hoje, nossa resposta é a disciplina que o Google chama de Engenharia de Confiabilidade do Site.
 # Controle 15: Gestão de Provedor de Serviços
 # Controle 16: Segurança de Aplicações
