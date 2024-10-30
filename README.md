@@ -110,6 +110,9 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 
 
 # Controle 10: Defesas Contra Malware
+# [Clamav Antivírus](https://www.clamav.net/)
+⚖️ GPL-2
+> Um mecanismo antivírus de código aberto para detecção de trojans, vírus, malware e outras ameaças maliciosas.
 # Controle 11: Recuperação de Dados
 # [Bacula](https://www.bacula.org/)
 ⚖️ AGPLv3
