@@ -131,7 +131,7 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 # [Prometheus](https://prometheus.io/)
 ⚖️ Apache-2
 > O sistema de monitoramento Prometheus e o banco de dados de séries temporais.
-# [MyIP](https://ipcheck.ing/#/)
+# [MyIP DNS Check](https://ipcheck.ing/#/)
 ⚖️ MIT
 > A melhor caixa de ferramentas de IP. Fácil de verificar quais são seus IPs, geolocalização de IP, verificar vazamentos de DNS, examinar conexões WebRTC, teste de velocidade, teste de ping, teste de MTR, verificar disponibilidade de site, pesquisa whois e muito mais! 
 # [Ntop-NG](https://www.ntop.org/)
