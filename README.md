@@ -45,7 +45,7 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 ⚖️ Apache License, Version 2.0 
 > Authelia é um servidor e portal de autenticação e autorização de código aberto que cumpre a função de gerenciamento de identidade e acesso (IAM) de segurança, fornecer autenticação multifator e logon único (SSO) para seus aplicativos por meio de um portal da web.
 
-# [Kanidm](kanidm.com)
+# [Kanidm](https://kanidm.com)
 ⚖️  Mozilla Public License Version 2.0
 >O Kanidm é uma plataforma de gerenciamento de identidade simples e segura, permitindo que outros aplicativos e serviços transfiram o desafio de autenticar e armazenar identidades para o Kanidm.
 
