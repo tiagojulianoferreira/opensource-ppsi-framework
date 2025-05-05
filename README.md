@@ -27,6 +27,10 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 > É um software de código aberto. Ele permite que você escaneie e inventariie todos os seus dispositivos em seu departamento de TI. Depois de saber tudo sobre suas máquinas, tanto em termos de hardware quanto de software, você poderá implantar pacotes para manter seu ambiente seguro.
 
 ## Controle 3: Proteção de Dados
+# [Anubis (Anti-Scraper)] (https://anubis.techaro.lol/)
+⚖️ MIT
+> Avalie a alma das solicitações HTTP recebidas usando prova de trabalho para interromper rastreadores de IA.
+
 ## Controle 4: Configuração Segura de Ativos Institucionais e Software
 # [BunkerWeb (WAF)](https://www.bunkerweb.io/)
 ⚖️ AGPL-3
