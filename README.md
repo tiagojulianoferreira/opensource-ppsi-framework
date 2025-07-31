@@ -116,8 +116,9 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 # [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway/overview)
 ⚖️ AGPL-3
 > O Proxmox Mail Gateway é a principal solução de segurança de e-mail de código aberto, ajudando você a proteger seu servidor de e-mail contra todas as ameaças de e-mail desde o momento em que elas surgem. A arquitetura flexível combinada com a interface de gerenciamento amigável e baseada na web permite que profissionais de TI e empresas controlem todos os e-mails recebidos e enviados com facilidade e protejam seus usuários contra spam, vírus, phishing e trojans.
-
-
+# [SecretScanner](https://github.com/deepfence/SecretScanner)
+⚖️ MIT
+> Encontre tokens, chaves, senhas etc. em contêineres e filesystems, suportando aproximadamente 140 diferentes tipos de secrets.
 # Controle 10: Defesas Contra Malware
 # [Clamav Antivírus](https://www.clamav.net/)
 ⚖️ GPL-2
