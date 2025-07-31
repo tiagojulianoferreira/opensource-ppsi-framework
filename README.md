@@ -113,6 +113,9 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 # [MailScanner](https://www.mailscanner.info/)
 ⚖️ GPL-2 
 > O MailScanner verifica e-mails em busca de vírus, spam, phishing, malware e outros ataques contra vulnerabilidades de segurança e desempenha um papel importante na segurança de uma rede. Em virtude de ser de código aberto, a tecnologia do MailScanner foi revisada muitas vezes por alguns dos melhores e mais brilhantes no campo da segurança de computadores do mundo todo. O MailScanner suporta uma ampla gama de MTAs e scanners de vírus para incluir o popular Clam AV de código aberto. A detecção de spam é realizada via Spamassassin, que é de longe o mecanismo de detecção de spam mais popular e padronizado
+# [PacketStreamer](https://github.com/deepfence/PacketStreamer)
+⚖️ Apache-2
+> Deepfence PacketStreamer é uma ferramenta remota de captura e coleta de pacotes de alto desempenho. Ele é usado pela plataforma de observação de segurança ThreatStryker da Deepfence para coletar tráfego de rede sob demanda de cargas de trabalho de nuvem para análise forense. Mantenha a luz, captura e fluxo, sem processamento adicional. Portabilidade, funciona em máquinas virtuais, Kubernetes e AWS Fargate. Linux e Windows
 # [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway/overview)
 ⚖️ AGPL-3
 > O Proxmox Mail Gateway é a principal solução de segurança de e-mail de código aberto, ajudando você a proteger seu servidor de e-mail contra todas as ameaças de e-mail desde o momento em que elas surgem. A arquitetura flexível combinada com a interface de gerenciamento amigável e baseada na web permite que profissionais de TI e empresas controlem todos os e-mails recebidos e enviados com facilidade e protejam seus usuários contra spam, vírus, phishing e trojans.
