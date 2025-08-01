@@ -40,6 +40,7 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # [BunkerWeb (WAF)](https://www.bunkerweb.io/)
 ⚖️ AGPL-3
 > BunkerWeb is a next-generation and open-source Web Application Firewall (WAF).
+
 # [fail2ban](https://github.com/fail2ban/fail2ban)
 ⚖️ GPL-2
 > O Fail2Ban verifica arquivos de log como /var/log/auth.loge bane endereços IP que conduzem muitas tentativas de login com falha. Ele faz isso atualizando as regras de firewall do sistema para rejeitar novas conexões desses endereços IP, por um período de tempo configurável. O Fail2Ban vem pronto para ler muitos arquivos de log padrão, como os do sshd e do Apache, e é facilmente configurado para ler qualquer arquivo de log de sua escolha, para qualquer erro que você desejar.
@@ -85,9 +86,11 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 # [DefectDojo](https://defectdojo.com/)
 ⚖️ BSD-3-Clause
 > DevSecOps, ASPM, Vulnerability Management. Tudo em uma plataforma.
+
 # [DNSDiag](https://dnsdiag.org/)
 ⚖️ BSD2-Clause
 > Conjunto de ferramentas de medição, solução de problemas e auditoria de segurança de DNS
+
 # [OpenVas](https://www.openvas.org/)
 ⚖️ GPL-2
 <!--![image](https://github.com/user-attachments/assets/91118b72-ecc9-4ec9-8a7c-5df5f1e175ea)-->
@@ -96,6 +99,7 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 # [Shuffle (SOAR)](https://github.com/shuffle/shuffle)
 ⚖️ AGPL-3
 > Shuffle: Uma plataforma de Orquestração, Automação e Resposta - SOAR de segurança de propósito geral. Nosso foco é colaboração e compartilhamento de recursos.
+
 # [Wireshark](https://github.com/wireshark/wireshark)
 ⚖️ GPL-2 
 > Wireshark é um analisador de tráfego de rede, ou "sniffer", para Linux, macOS, *BSD e outros sistemas operacionais Unix e Unix-like e para Windows. Ele usa Qt, uma biblioteca de interface gráfica de usuário, e libpcap e npcap como bibliotecas de captura e filtragem de pacotes.
@@ -103,6 +107,7 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 # Controle 8: Gestão de Registros de Auditoria
 # [Graylog](https://graylog.org/)
 > Plataforma de gerenciamento de logs gratuita e aberta.
+
 # [Loki](https://grafana.com/loki)
 ⚖️ AGPL-3
 > Loki é um sistema de agregação de logs multi-tenant, altamente disponível e escalável horizontalmente, inspirado no Prometheus . Ele foi projetado para ser muito econômico e fácil de operar. Ele não indexa o conteúdo dos logs, mas sim um conjunto de rótulos para cada fluxo de logs.
@@ -110,71 +115,88 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 # [Wazuh (SIEM)](https://wazuh.com/)
 ⚖️ GPL-2 e AGPL-3
 > Wazuh - A plataforma de segurança de código aberto. Proteção XDR e SIEM unificada para endpoints e cargas de trabalho em nuvem.
+
 # Controle 9: Proteções de E-mail e Navegador Web
 
 # [Apache SpamAssassin](https://spamassassin.apache.org/)
 ⚖️ Apache-2
 > O Apache SpamAssassin é a plataforma antispam de código aberto número 1, oferecendo aos administradores de sistemas um filtro para classificar e-mails e bloquear spam (e-mails em massa não solicitados). Ele usa uma estrutura de pontuação robusta e plug-ins para integrar uma ampla gama de testes avançados de análise estatística e heurística em cabeçalhos de e-mail e corpo de texto, incluindo análise de texto, filtragem bayesiana, listas de bloqueio de DNS e bancos de dados de filtragem colaborativa.
+
 # [MailScanner](https://www.mailscanner.info/)
 ⚖️ GPL-2 
 > O MailScanner verifica e-mails em busca de vírus, spam, phishing, malware e outros ataques contra vulnerabilidades de segurança e desempenha um papel importante na segurança de uma rede. Em virtude de ser de código aberto, a tecnologia do MailScanner foi revisada muitas vezes por alguns dos melhores e mais brilhantes no campo da segurança de computadores do mundo todo. O MailScanner suporta uma ampla gama de MTAs e scanners de vírus para incluir o popular Clam AV de código aberto. A detecção de spam é realizada via Spamassassin, que é de longe o mecanismo de detecção de spam mais popular e padronizado
+
 # [PacketStreamer](https://github.com/deepfence/PacketStreamer)
 ⚖️ Apache-2
 > Deepfence PacketStreamer é uma ferramenta remota de captura e coleta de pacotes de alto desempenho. Ele é usado pela plataforma de observação de segurança ThreatStryker da Deepfence para coletar tráfego de rede sob demanda de cargas de trabalho de nuvem para análise forense. Mantenha a luz, captura e fluxo, sem processamento adicional. Portabilidade, funciona em máquinas virtuais, Kubernetes e AWS Fargate. Linux e Windows
+
 # [Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway/overview)
 ⚖️ AGPL-3
 > O Proxmox Mail Gateway é a principal solução de segurança de e-mail de código aberto, ajudando você a proteger seu servidor de e-mail contra todas as ameaças de e-mail desde o momento em que elas surgem. A arquitetura flexível combinada com a interface de gerenciamento amigável e baseada na web permite que profissionais de TI e empresas controlem todos os e-mails recebidos e enviados com facilidade e protejam seus usuários contra spam, vírus, phishing e trojans.
+
 # [SecretScanner](https://github.com/deepfence/SecretScanner)
 ⚖️ MIT
 > Encontre tokens, chaves, senhas etc. em contêineres e filesystems, suportando aproximadamente 140 diferentes tipos de secrets.
+
 # Controle 10: Defesas Contra Malware
 # [Clamav Antivírus](https://www.clamav.net/)
 ⚖️ GPL-2
 > Um mecanismo antivírus de código aberto para detecção de trojans, vírus, malware e outras ameaças maliciosas.
+
 # Controle 11: Recuperação de Dados
 # [Bacula](https://www.bacula.org/)
 ⚖️ AGPLv3
 > Bacula é um conjunto de programas de computador que permite ao administrador do sistema gerenciar backup, recuperação e verificação de dados de computador em uma rede de computadores de diferentes tipos. Bacula também pode ser executado inteiramente em um único computador e pode bac
+
 # Controle 12: Gestão da Infraestrutura de Rede
 # [phpIPAM](https://phpipam.net/)
 ⚖️ GPL-3
 > phpipam é um aplicativo de gerenciamento de endereço IP web de código aberto (IPAM). Seu objetivo é fornecer gerenciamento de endereço IP leve, moderno e útil. É um aplicativo baseado em php com backend de banco de dados MySQL, usando bibliotecas jQuery, ajax e recursos HTML5/CSS3.
+
 # [Netbox](https://github.com/netbox-community/netbox)
 ⚖️ Apache License 2.0
 > A fonte única de verdade que impulsiona a automação de rede. Código aberto sob Apache 2. Experimente o NetBox Cloud gratuitamente:
+
 # Controle 13: Monitoramento e Defesa da Rede
 # [Cacti](https://www.cacti.net/)
 ⚖️ GPL-2
 > Cacti é uma ferramenta software livre administrativa de rede, que recolhe e exibe informações sobre o estado de uma rede de computadores através de gráficos, permitindo o monitoramento e gerenciamento de redes simples até redes complexas, com centenas de dispositivo
+
 # [Prometheus](https://prometheus.io/)
 ⚖️ Apache-2
 > O sistema de monitoramento Prometheus e o banco de dados de séries temporais.
+
 # [MyIP DNS Check](https://ipcheck.ing/#/)
 ⚖️ MIT
 > A melhor caixa de ferramentas de IP. Fácil de verificar quais são seus IPs, geolocalização de IP, verificar vazamentos de DNS, examinar conexões WebRTC, teste de velocidade, teste de ping, teste de MTR, verificar disponibilidade de site, pesquisa whois e muito mais! 
+
 # [Ntop-NG](https://www.ntop.org/)
 ⚖️ GPL-3
 > Monitoramento de tráfego de rede de segurança e tráfego baseado na Web
 # [Zabbix](https://github.com/zabbix/zabbix)
 ⚖️ AGPL-3
 > Monitoramento em tempo real de componentes e serviços de TI, como redes, servidores, VMs, aplicativos e nuvem.
+
 # Controle 14: Conscientização e Treinamento de Competências sobre Segurança
 
 # [SRE - Site Reliability Engineering (livro)](https://sre.google/sre-book/table-of-contents/)
 > Por essa lente, então, vemos que se a engenharia de software tende a se concentrar em projetar e construir sistemas de software, deve haver outra disciplina que se concentre em todo o ciclo de vida dos objetos de software, desde o início, passando pela implantação e operação, refinamento e eventual descomissionamento pacífico. Essa disciplina usa — e precisa usar — ​​uma ampla gama de habilidades, mas tem preocupações separadas de outros tipos de engenheiros. Hoje, nossa resposta é a disciplina que o Google chama de Engenharia de Confiabilidade do Site.
+
 # Controle 15: Gestão de Provedor de Serviços
 # Controle 16: Segurança de Aplicações
 
 # [Caddy](https://caddyserver.com/)
 ⚖️ Apache-2
 > Servidor web multiplataforma HTTP/1-2-3 rápido e extensível com HTTPS automático
-> 
+
 # [OWASP ZAP](https://www.zaproxy.org/)
 ⚖️ Apache-2
 >  Uma ferramenta de código aberto para encontrar vulnerabilidades de segurança em aplicações web automaticamente enquanto elas são sendo desenvolvidas.
+
 # [Zoraxy](https://zoraxy.aroz.org/index.html)
 ⚖️ AGPL-3
 > Uma ferramenta de proxy reverso e encaminhamento HTTP de propósito geral. Agora escrito em Go!
+
 # Controle 17: Gestão de Resposta a Incidentes
 # Controle 18: Testes de Invasão
 
