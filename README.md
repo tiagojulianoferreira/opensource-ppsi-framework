@@ -10,12 +10,15 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 # [Snort IDS/IPS](https://www.snort.org)
 ⚖️ GPL-2
 > Snort é um software livre de detecção de intrusão para rede desenvolvido inicialmente por Martin Roesch, capaz de desenvolver análise de tráfego em tempo real e registro de pacote em redes IP
+
 # [Suricata IDS/IPS](https://suricata.io/)
 ⚖️ GPL-2
 > Suricata é um software de análise de rede e detecção de ameaças de alto desempenho e código aberto, usado pela maioria das organizações públicas e privadas e incorporado pelos principais fornecedores para proteger seus ativos.
+
 # [Technitium DNS](https://technitium.com/dns/)
 ⚖️ GPLv3
 > O Technitium DNS Server é um servidor DNS autoritativo e recursivo de código aberto que pode ser usado para auto-hospedar um servidor DNS para privacidade e segurança. Ele funciona pronto para uso, sem configuração ou com configuração mínima, e fornece um console web amigável ao usuário, acessível usando qualquer navegador moderno.
+
 ## Controle 1: Inventário e Controle de Ativos Institucionais
 # [GLPI Agent](https://github.com/glpi-project/glpi-agent)
 ⚖️ GPL-2
