@@ -6,6 +6,8 @@ Conforme o disposto no art. 8º, da PORTARIA SGD/MGI Nº 852, os órgãos e as e
 
 Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/ppsi/guia_framework_psi.pdf))
 
+[Guia de Gerenciamento de Vulnerabilidade](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/ppsi/guia_gerenciamento_vulnerabilidades.pdf)
+
 # Controles de Cibersegurança
 # [Snort IDS/IPS](https://www.snort.org)
 ⚖️ GPL-2
