@@ -51,6 +51,7 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 > O software OpenLDAP é uma implementação de código aberto do Lightweight Directory Access Protocol .
 
 # [GovBR - Unifi Captive Portal ](https://github.com/dcc6fvo/unifi-govbr)
+⚖️ MIT
 > Portal Captivo para login GovBR compatível com controladora Unifi.
 
 ## Controle 6: Gestão do Controle de Acesso
