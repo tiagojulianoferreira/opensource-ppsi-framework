@@ -36,8 +36,7 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 ⚖️ MIT
 > Avalie a alma das solicitações HTTP recebidas usando prova de trabalho para interromper rastreadores de IA.
 
-# (Minarca Backup)[
-https://minarca.org/en_CA/features]
+# [Minarca Backup](https://minarca.org/en_CA/features)
 ⚖️ 
 > O Minarca é uma solução de backup de dados que permite centralizar o gerenciamento dos seus backups. Essa solução tem a vantagem de ser fácil de instalar em um servidor dedicado e também permite instalar facilmente um agente chamado minarca-client nos computadores para fazer o backup.
 
