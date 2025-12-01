@@ -186,7 +186,8 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 > Monitoramento em tempo real de componentes e serviços de TI, como redes, servidores, VMs, aplicativos e nuvem.
 
 # Controle 14: Conscientização e Treinamento de Competências sobre Segurança
-
+⚖️ AGPL-3
+> 
 # [SRE - Site Reliability Engineering (livro)](https://sre.google/sre-book/table-of-contents/)
 > Por essa lente, então, vemos que se a engenharia de software tende a se concentrar em projetar e construir sistemas de software, deve haver outra disciplina que se concentre em todo o ciclo de vida dos objetos de software, desde o início, passando pela implantação e operação, refinamento e eventual descomissionamento pacífico. Essa disciplina usa — e precisa usar — ​​uma ampla gama de habilidades, mas tem preocupações separadas de outros tipos de engenheiros. Hoje, nossa resposta é a disciplina que o Google chama de Engenharia de Confiabilidade do Site.
 
@@ -196,6 +197,10 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 # [Caddy](https://caddyserver.com/)
 ⚖️ Apache-2
 > Servidor web multiplataforma HTTP/1-2-3 rápido e extensível com HTTPS automático
+
+# [Maglev LoadBalancer](https://github.com/kkdai/maglev)
+⚖️ Apache-2
+> Implementação em Go do algoritmo de hash Maglev do Google.
 
 # [OWASP ZAP](https://www.zaproxy.org/)
 ⚖️ Apache-2
