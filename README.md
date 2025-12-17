@@ -198,6 +198,10 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 ⚖️ Apache-2
 > Servidor web multiplataforma HTTP/1-2-3 rápido e extensível com HTTPS automático
 
+# [HAProxy Data Plane API](https://www.haproxy.com/documentation/haproxy-data-plane-api/)
+⚖️ Apache-2
+> Permite configurar o balanceador de carga usando comandos HTTP, RESTful, habilitando configurações geradas dinamicamente. Ele é executado como um programa ou serviço autônomo, de modo que suas versões são independentes do ciclo de liberação do balanceador de carga.
+
 # [Maglev LoadBalancer](https://github.com/kkdai/maglev)
 ⚖️ Apache-2
 > Implementação em Go do algoritmo de hash Maglev do Google.
