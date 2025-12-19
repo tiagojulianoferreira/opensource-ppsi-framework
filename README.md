@@ -206,6 +206,10 @@ Ao fornecer funcionalidade para proxy, roteamento, balanceamento de carga, verif
 ⚖️ Apache-2
 > Implementação em Go do algoritmo de hash Maglev do Google.
 
+# [mitmproxy](https://github.com/mitmproxy/mitmproxy)
+⚖️ MIT
+> Um proxy HTTP interativo compatível com TLS para testadores de penetração e desenvolvedores de software.
+
 # [OWASP ZAP](https://www.zaproxy.org/)
 ⚖️ Apache-2
 >  Uma ferramenta de código aberto para encontrar vulnerabilidades de segurança em aplicações web automaticamente enquanto elas são sendo desenvolvidas.
