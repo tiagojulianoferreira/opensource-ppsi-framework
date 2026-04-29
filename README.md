@@ -45,7 +45,7 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 ⚖️ AGPL-3
 > BunkerWeb is a next-generation and open-source Web Application Firewall (WAF).
 
-# [CrowdSec] (https://crowdsec.net/)
+# [CrowdSec](https://crowdsec.net/)
 ⚖️ MIT
 > Solução de segurança de código aberto e participativa que oferece proteção contra IPs maliciosos e acesso à mais avançada CTI do mundo real.
 
