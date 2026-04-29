@@ -45,6 +45,10 @@ Guia do Framework de Privacidade e Segurança da Informação ([Ler em PDF](http
 ⚖️ AGPL-3
 > BunkerWeb is a next-generation and open-source Web Application Firewall (WAF).
 
+# [CrowdSec] (https://crowdsec.net/)
+⚖️ MIT
+> Solução de segurança de código aberto e participativa que oferece proteção contra IPs maliciosos e acesso à mais avançada CTI do mundo real.
+
 # [fail2ban](https://github.com/fail2ban/fail2ban)
 ⚖️ GPL-2
 > O Fail2Ban verifica arquivos de log como /var/log/auth.loge bane endereços IP que conduzem muitas tentativas de login com falha. Ele faz isso atualizando as regras de firewall do sistema para rejeitar novas conexões desses endereços IP, por um período de tempo configurável. O Fail2Ban vem pronto para ler muitos arquivos de log padrão, como os do sshd e do Apache, e é facilmente configurado para ler qualquer arquivo de log de sua escolha, para qualquer erro que você desejar.
